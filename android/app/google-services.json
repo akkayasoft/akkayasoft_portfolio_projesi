@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038529005216",
+    "project_id": "portfolio-projesi-a5027",
+    "storage_bucket": "portfolio-projesi-a5027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038529005216:android:12c8d19bbfae1ec1936bc5",
+        "android_client_info": {
+          "package_name": "com.akkayasoft.portfolio.akkayasoft_portfolio_projesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWEw2_p6hQNdGBPEqD8BXuqaqLXvS91ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

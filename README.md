@@ -1,16 +1,25 @@
 ## Flutter Portfolio Projesi Ders 1 : Giriş ve Kurulumlar
 1. Java Kurulması
+
    ![image](https://github.com/akkayasoft/akkayasoft_portfolio_projesi/assets/133866777/c47f3a37-d5d7-4d4b-82f2-2f2b25d561e4)
+   
    ![image](https://github.com/akkayasoft/akkayasoft_portfolio_projesi/assets/133866777/b7aad4cf-2b9d-45f9-b03b-b0453e91b36c)
+   
    ![image](https://github.com/akkayasoft/akkayasoft_portfolio_projesi/assets/133866777/13645d44-fd7b-4280-918f-b3daa3347b22)
+   
    ![image](https://github.com/akkayasoft/akkayasoft_portfolio_projesi/assets/133866777/80fd0e8e-289d-48fa-a1b6-e0303b275321)
+   
    ![image](https://github.com/akkayasoft/akkayasoft_portfolio_projesi/assets/133866777/fd088acc-2db8-4b89-a895-d13018ec5698)
+   
    ![image](https://github.com/akkayasoft/akkayasoft_portfolio_projesi/assets/133866777/aac91ad2-524a-46cd-81de-2e52454983f7)
+   
    ![image](https://github.com/akkayasoft/akkayasoft_portfolio_projesi/assets/133866777/380e42d9-7fbc-4282-a12c-3cea0267d05c)
+   
    ![image](https://github.com/akkayasoft/akkayasoft_portfolio_projesi/assets/133866777/91b42a75-fa40-4f38-8f97-be0126db35f1)
+   
    ![image](https://github.com/akkayasoft/akkayasoft_portfolio_projesi/assets/133866777/8c387b25-7bd5-4338-9468-1374fb7e2b70)
    
-2. Git Kurulması
+3. Git Kurulması
    
 4. Flutter SDK Kurulması (C://src/flutter altında saklayalım )
    

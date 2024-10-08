@@ -1,7 +1,7 @@
 ## Flutter Portfolio Projesi Ders 1 : Giriş ve Kurulumlar
 1. Java Kurulması
 
-! [image](https://github.com/akkayasoft/akkayasoft_portfolio_projesi/assets/133866777/c47f3a37-d5d7-4d4b-82f2-2f2b25d561e4)
+   (https://github.com/akkayasoft/akkayasoft_portfolio_projesi/assets/133866777/c47f3a37-d5d7-4d4b-82f2-2f2b25d561e4)
    
    
    ![image](https://github.com/akkayasoft/akkayasoft_portfolio_projesi/assets/133866777/b7aad4cf-2b9d-45f9-b03b-b0453e91b36c)
